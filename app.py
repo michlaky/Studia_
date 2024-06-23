@@ -21,3 +21,5 @@ elif jezyk =="SQL":
     print("Rozwijaj systemy bazodanowe")
 elif jezyk =="":
     print("Nie podales jezyka")
+if name == “main”:
+main()
